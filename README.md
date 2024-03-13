@@ -8,6 +8,6 @@ diabetes or not...
 For this project, i have used logistic Regression... In this model 75% of the data
 is used to train the machine and teh remaning 25% is used to test it...
 
-#Results
-After testing our model we got a accuracy of 80%
+# Results
+After testing our model we got a accuracy of 80.20833333333334%
 
